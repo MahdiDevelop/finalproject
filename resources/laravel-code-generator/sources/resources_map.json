@@ -1,0 +1,67 @@
+[
+    {
+        "model-name": "belance",
+        "resource-file": "belances.json",
+        "table-name": "belances"
+    },
+    {
+        "model-name": "item",
+        "resource-file": "items.json",
+        "table-name": "items"
+    },
+    {
+        "model-name": "itemtype",
+        "resource-file": "itemtypes.json",
+        "table-name": "itemtypes"
+    },
+    {
+        "model-name": "ItemType",
+        "resource-file": "item_types.json",
+        "table-name": "item_types"
+    },
+    {
+        "model-name": "Money",
+        "resource-file": "money.json",
+        "table-name": "money"
+    },
+    {
+        "model-name": "Moneys",
+        "resource-file": "moneys.json",
+        "table-name": "moneys"
+    },
+    {
+        "model-name": "purchase",
+        "resource-file": "purchases.json",
+        "table-name": "purchases"
+    },
+    {
+        "model-name": "report",
+        "resource-file": "reports.json",
+        "table-name": "reports"
+    },
+    {
+        "model-name": "sell",
+        "resource-file": "sells.json",
+        "table-name": "sells"
+    },
+    {
+        "model-name": "settings",
+        "resource-file": "settings.json",
+        "table-name": "settings"
+    },
+    {
+        "model-name": "stock",
+        "resource-file": "stocks.json",
+        "table-name": "stocks"
+    },
+    {
+        "model-name": "user",
+        "resource-file": "users.json",
+        "table-name": "users"
+    },
+    {
+        "model-name": "user_activity_log",
+        "resource-file": "user_activity_logs.json",
+        "table-name": "user_activity_logs"
+    }
+]
